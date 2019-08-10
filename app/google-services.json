@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050058514671",
+    "firebase_url": "https://diyetik-cfc66.firebaseio.com",
+    "project_id": "diyetik-cfc66",
+    "storage_bucket": "diyetik-cfc66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050058514671:android:d9ad05607951f690",
+        "android_client_info": {
+          "package_name": "com.fatmagulyurtseven.diyetik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050058514671-c198vivbl0l2mbq7kq13tv1rct9tdrtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fatmagulyurtseven.diyetik",
+            "certificate_hash": "8b8da7c78685d755a6f46ebf3ebe4f7433df8f0a"
+          }
+        },
+        {
+          "client_id": "1050058514671-34trv4er81e63banbh7rgbr7imjk4721.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7nigHZMLENRWvOPGrSexQQw5O93McBkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050058514671-34trv4er81e63banbh7rgbr7imjk4721.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
